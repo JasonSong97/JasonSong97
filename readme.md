@@ -14,13 +14,13 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 ## PROJECTS
 
-Jason Moll - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
+Joshua Jpa shop[clone coding] = https://github.com/JasonSong97/JpaShop
 
-Jason Jpa shop = https://github.com/JasonSong97/JpaShop
+Joshua Instagram[clone coding] - 
 
-Jason Instagram - 진행중
+Joshua Moll - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
 
-Jason Blog - 
+Joshua Blog - 
 
 ## Where to find me
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
