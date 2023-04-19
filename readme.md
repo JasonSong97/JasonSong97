@@ -14,7 +14,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 ## PROJECTS
 
-Joshua Jpa shop[clone coding] = https://github.com/JasonSong97/JpaShop
+Joshua Jpa shop[clone coding] - https://github.com/JasonSong97/JpaShop
 
 Joshua Instagram[clone coding] - 
 
