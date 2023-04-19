@@ -14,7 +14,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 ## PROJECTS
 
-metamoll - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
+Jason Moll - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
 
 
 ## Where to find me
