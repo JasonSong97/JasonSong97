@@ -16,7 +16,9 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 Joshua Jpa shop[clone coding] - https://github.com/JasonSong97/JpaShop
 
-Joshua Instagram[clone coding] - 
+Joshua Instagram[clone coding] - https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
+
+Joshua deploy - 
 
 Joshua Moll - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
 
