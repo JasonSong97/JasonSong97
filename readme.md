@@ -34,7 +34,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 ### Joshua Instagram [clone coding] [2023.04.21~2023.04.23]
 - https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
-### Joshua Bank application [clone coding] [2023.04.23~ing]
+### Joshua Bank application [2023.04.23~ing]
 - https://github.com/JasonSong97/junit-bank-class
 ### Joshua deploy with AWS 
 - 
