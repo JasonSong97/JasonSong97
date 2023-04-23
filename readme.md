@@ -31,14 +31,13 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 ## PROJECTS
 
-### Joshua Jpa shop [clone coding] []
+### Joshua Jpa shop [clone coding] [2023.03.14~2023.03.20]
 - https://github.com/JasonSong97/JpaShop
-
 ### Joshua Instagram [clone coding] [2023.04.21~2023.04.23]
 - https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
 ### Joshua Bank application [2023.04.23~ing]
 - https://github.com/JasonSong97/junit-bank
-### Joshua deploy with AWS 
+### Joshua deploy with AWS and LINUX
 - 
 
 ### Joshua Moll 
