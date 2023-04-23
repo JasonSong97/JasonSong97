@@ -16,7 +16,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> 
 
-<img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-black?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Security-black?style=flat&logo=Spring Security&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-black?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Security-black?style=flat&logo=Spring Security&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Junit5-black?style=flat&logo=Junit5&logoColor=25A162"/>
 
 <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MariaDB-black?style=flat&logo=MariaDB&logoColor=003545"/>
 
