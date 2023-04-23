@@ -1,4 +1,4 @@
-# Back-End developer who was Pastry Chef
+# Back-End developer who was Pastry Chef Before
 After France INBP pattisserie course in Korea, I experienced as a pastry chef at Roissant in Jonggak, Seoul.
 Now, I am being as a back-end developer hopes to improve the system of the Food Tech and IT industries provide services for small starts up food tech businesses.
 
@@ -9,20 +9,41 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 ## GITHUB STATES 
 ![JasonSong97's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSong97)
 
-## Things I code with
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+## TECH STACK
+
+### WHAT DID I STUDY 
+<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black">
+
+<img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> 
+
+<img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-black?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Security-black?style=flat&logo=Spring Security&logoColor=6DB33F"/>
+
+<img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MariaDB-black?style=flat&logo=MariaDB&logoColor=003545"/>
+
+<img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=NumPy&logoColor=013243"/> <img src="https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=150458"/> 
+### WHAT DO I STUDY NOW
+<img src="https://img.shields.io/badge/Linux-grey?style=flat&logo=Linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Amazon AWS-grey?style=flat&logo=Amazon AWS&logoColor=232F3E"/>
+
+### WHAT DO I GOING TO STUDY
+<img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=Flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/Go-white?style=flat&logo=Go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/Dooker-white?style=flat&logo=Dooker&logoColor=2496ED"/>
 
 ## PROJECTS
 
-Joshua Jpa shop[clone coding] - https://github.com/JasonSong97/JpaShop
+### Joshua Jpa shop [clone coding] []
+- https://github.com/JasonSong97/JpaShop
 
-Joshua Instagram[clone coding] - https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
+### Joshua Instagram [clone coding] [2023.04.21~2023.04.23]
+- https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
+### Joshua Bank application [clone coding] [2023.04.23~ing]
+- 
+### Joshua deploy with AWS 
+- 
 
-Joshua deploy - 
+### Joshua Moll 
+- https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
 
-Joshua Moll - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
-
-Joshua Blog - https://github.com/JasonSong97/JoshuaBlog
+### Joshua Blog 
+- https://github.com/JasonSong97/JoshuaBlog
 
 ## Where to find me
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
