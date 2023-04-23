@@ -11,7 +11,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 ## TECH STACK
 
-### WHAT DID I STUDY 
+### WHAT DID I LEARN 
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black">
 
 <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> 
@@ -21,6 +21,8 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MariaDB-black?style=flat&logo=MariaDB&logoColor=003545"/>
 
 <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=NumPy&logoColor=013243"/> <img src="https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=150458"/> 
+
+<img src="https://img.shields.io/badge/Intellij IDEA-black?style=flat&logo=Intellij IDEA&logoColor=000000"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
 ### WHAT DO I STUDY NOW
 <img src="https://img.shields.io/badge/Linux-grey?style=flat&logo=Linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Amazon AWS-grey?style=flat&logo=Amazon AWS&logoColor=232F3E"/>
 
