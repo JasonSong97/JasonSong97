@@ -22,7 +22,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 
 <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=NumPy&logoColor=013243"/> <img src="https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=150458"/> 
 
-<img src="https://img.shields.io/badge/Intellij IDEA-black?style=flat&logo=Intellij IDEA&logoColor=000000"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Intellij IDEA-black?style=flat&logo=Intellij IDEA&logoColor=000000"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=flat&logo=Visual Studio Code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Anaconda-black?style=flat&logo=Anaconda&logoColor=44A833"/>
 ### WHAT DO I STUDY NOW
 <img src="https://img.shields.io/badge/Linux-grey?style=flat&logo=Linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Amazon AWS-grey?style=flat&logo=Amazon AWS&logoColor=232F3E"/>
 
