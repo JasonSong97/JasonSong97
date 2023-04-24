@@ -38,7 +38,11 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 ### Joshua Bank application [2023.04.23~ing]
 - https://github.com/JasonSong97/junit-bank
 ### Joshua deploy with AWS and LINUX
-- 
+- https://github.com/JasonSong97/aws-v1
+-
+-
+-
+-
 
 ### Joshua Moll 
 - https://github.com/spring-lecture-note/Springboot-MetaMall-Project2
