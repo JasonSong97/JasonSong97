@@ -37,7 +37,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 - https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
 ### Joshua Bank application [2023.04.23~ing]
 - https://github.com/JasonSong97/junit-bank
-### Joshua deploy with AWS and LINUX
+### Joshua AWS Deploy
 - https://github.com/JasonSong97/aws-v1
 - https://github.com/JasonSong97/aws-v2
 - https://github.com/JasonSong97/aws-v2-last
