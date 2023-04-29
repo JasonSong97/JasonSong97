@@ -29,13 +29,13 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 ### WHAT DO I GOING TO STUDY
 <img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=Flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/Go-white?style=flat&logo=Go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/Dooker-white?style=flat&logo=Dooker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=7F52FF"/>
 
-## PROJECTS
+## Project
 
 ### Joshua Jpa shop [clone coding] [2023.03.14~2023.03.20]
 - https://github.com/JasonSong97/JpaShop
 ### Joshua Instagram [clone coding] [2023.02.21~2023.04.23]
 - https://github.com/JasonSong97/EaszUp-Springboot-Photogram-Start
-### Joshua Bank application [2023.04.23~ing]
+### Joshua Bank application [2023.04.23~2023.04.30]
 - https://github.com/JasonSong97/junit-bank
 ### Joshua AWS Deploy
 - https://github.com/JasonSong97/aws-v1
