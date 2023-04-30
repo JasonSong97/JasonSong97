@@ -42,7 +42,7 @@ Hello, I'm Jaegeun Song, who has a bigger slope value than anyone else.
 - https://github.com/JasonSong97/aws-v2
 - https://github.com/JasonSong97/aws-v2-last
 - https://github.com/JasonSong97/aws-v3
-- https://github.com/codingspecialist/aws-v3-0.0.4
+- https://github.com/JasonSong97/aws-v3-0.0.4
 - https://github.com/JasonSong97/aws-v4
 - https://github.com/JasonSong97/aws-v5
 ### Joshua Moll 
