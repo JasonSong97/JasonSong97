@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
 </p>
 <p>
@@ -34,6 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/H2-0052CC?style=for-the-badge&logo=h2" />
   <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
@@ -56,19 +57,18 @@
 <p align="center">
 Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepreneurship &nbsp;   MAR  2020 - JUNE 2022</em>
 
-INBP of Korea - &nbsp; <em>Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
+INBP of Korea — &nbsp; <em> Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
  
-FastCampus Boot Camp &nbsp; <em>Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
+FastCampus Boot Camp — Kangnam &nbsp; <em> Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
 </p>   
 
 <h3 align="center"> 📕 Certificate 📕</h3>
 
 
-
+ 
 <br>
 
 <h3 align="center"> 🏆 Prize 🏆</h3>
-
 
 
 
@@ -78,7 +78,6 @@ FastCampus Boot Camp &nbsp; <em>Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV 
 <h3 align="center"> 🧩 Activity 🧩</h3>
 
 
-  
   
 <br>
  
