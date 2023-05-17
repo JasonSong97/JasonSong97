@@ -4,8 +4,8 @@
  
  <h2 align="center">👨‍💻 About 👨‍💻</h2>
 <p align="center">
-    <a href="[https://vividswan.tistory.com/](https://velog.io/@jaegeunsong_1997)">
-        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://vividswan.github.io](https://velog.io/@jaegeunsong_1997)"/>
+    <a href="[https://velog.io/@jaegeunsong_1997](https://velog.io/@jaegeunsong_1997)">
+        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://Jasonsong97.github.io](https://velog.io/@jaegeunsong_1997)"/>
     </a>
     <a href="https:/JasonSong97.github.io/about.html">
         <img src="https://img.shields.io/badge/-about%20me-blue"/>
@@ -19,15 +19,32 @@
  
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-blue"/>
-  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
-   <img src="https://img.shields.io/badge/-Vuex-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Swagger-navy"/>&nbsp
+  <p>
+  <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/H2-0052CC?style=for-the-badge&logo=h2" />
+  <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code%20Deploy-2F93E0?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> 
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello&logoColor=0052CC"/>
+</p>
  </p>
 
 
@@ -37,9 +54,11 @@
 <br>
 <h2 align="center">🏫 Education 🏫</h2>
 <p align="center">
-Woosong University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2018 - FEB  2022</em>
+Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepreneurship &nbsp;   MAR  2020 - JUNE 2022</em>
 
-INBP of Korea - &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2018 - FEB  2022</em>
+INBP of Korea - &nbsp; <em>Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
+ 
+FastCampus Boot Camp &nbsp; <em>Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
 </p>   
 
 <h3 align="center"> 📕 Certificate 📕</h3>
