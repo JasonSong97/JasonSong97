@@ -5,7 +5,7 @@
  <h2 align="center">👨‍💻 About 👨‍💻</h2>
 <p align="center">
     <a href="[https://velog.io/@jaegeunsong_1997](https://velog.io/@jaegeunsong_1997)">
-        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://JasonSong97.github.io](https://velog.io/@jaegeunsong_1997)"/>
+        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=[https://velog.io/@jaegeunsong_1997](https://velog.io/@jaegeunsong_1997)"/>
     </a>
     <a href="https:/JasonSong97.github.io/about.html">
         <img src="https://img.shields.io/badge/-about%20me-blue"/>
