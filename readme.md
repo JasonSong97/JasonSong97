@@ -59,7 +59,7 @@ Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepr
 
 INBP of Korea — &nbsp; <em> Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
  
-FastCampus Boot Camp — Kangnam &nbsp; <em> Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
+FastCampus Boot Camp — &nbsp; <em> Gangnam Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
 </p>   
 
 <h3 align="center"> 📕 Certificate 📕</h3>
