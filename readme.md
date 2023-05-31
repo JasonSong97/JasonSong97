@@ -55,11 +55,12 @@
 <br>
 <h2 align="center">🏫 Education 🏫</h2>
 <p align="center">
-Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepreneurship &nbsp;   MAR  2020 - JUNE 2022</em>
-
+FastCampus Boot Camp — &nbsp; <em> Gangnam Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
+ 
 INBP of Korea — &nbsp; <em> Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
  
-FastCampus Boot Camp — &nbsp; <em> Gangnam Megabyteschool BackEnd(Java) - 4th &nbsp;   NOV  2022 - JUNE  2023</em>
+Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepreneurship &nbsp;   MAR  2020 - JUNE 2022</em>
+
 </p>   
 
 <h3 align="center"> 📕 Certificate 📕</h3>
