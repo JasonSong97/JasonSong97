@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
 
 <div align=center>
- 
  <h2 align="center">👨‍💻 About 👨‍💻</h2>
-<p align="center">
-    <a href="[개인 블로그](https://velog.io/@jaegeunsong_1997)">
-        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=[개인블로그](https://velog.io/@jaegeunsong_1997)"/>
-    </a>
-    <a href="https://velog.io/@jaegeunsong_1997/about.html">
-        <img src="https://img.shields.io/badge/-about%20me-blue"/>
-    </a>
+ <p align="center">
+  <a href="https://velog.io/@jaegeunsong_1997">
+   <img src="https://img.shields.io/badge/Velog-white?style=for-the-badge&logo=Velog&logoColor=black" />
+  </a>
+  <a href="mailto:jaegeunsong97@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  
 </p>
 <br> 
 
