@@ -4,8 +4,8 @@
  
  <h2 align="center">👨‍💻 About 👨‍💻</h2>
 <p align="center">
-    <a href="[https://velog.io/@jaegeunsong_1997](https://velog.io/@jaegeunsong_1997)">
-        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=[https://velog.io/@jaegeunsong_1997](https://velog.io/@jaegeunsong_1997)"/>
+    <a href="[개인 블로그](https://velog.io/@jaegeunsong_1997)">
+        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=[개인블로그](https://velog.io/@jaegeunsong_1997)"/>
     </a>
     <a href="https://velog.io/@jaegeunsong_1997/about.html">
         <img src="https://img.shields.io/badge/-about%20me-blue"/>
