@@ -6,9 +6,6 @@
   <a href="https://velog.io/@jaegeunsong_1997">
    <img src="https://img.shields.io/badge/Velog-white?style=for-the-badge&logo=Velog&logoColor=black" />
   </a>
-  <a href="mailto:jaegeunsong97@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
   
 </p>
 <br> 
