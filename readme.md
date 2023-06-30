@@ -6,13 +6,23 @@
   <a href="https://velog.io/@jaegeunsong_1997">
    <img src="https://img.shields.io/badge/Velog-white?style=for-the-badge&logo=Velog&logoColor=black" />
   </a>
+
+<br>
+</br>
   
 </p>
-<br> 
+<br>
+<h4 align="center">🎲 Problem Solving 🎲</h4> 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jijus0807)](https://solved.ac/jijus0807) 
  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jijus0807)](https://solved.ac/jijus0807)
+
+
+
+<br>
+</br>
+
  
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
@@ -25,13 +35,14 @@
   <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/H2-0052CC?style=for-the-badge&logo=h2" />
@@ -40,7 +51,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Code%20Deploy-2F93E0?style=for-the-badge" />
 </p>
 <p>
@@ -65,23 +76,15 @@ Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepr
 
 </p>   
 
-<h3 align="center"> 📕 Certificate 📕</h3>
 
-
- 
 <br>
-
-<h3 align="center"> 🏆 Prize 🏆</h3>
 
 
 
 <br>
  
- 
-<h3 align="center"> 🧩 Activity 🧩</h3>
 
 
-  
 <br>
  
 </div>
