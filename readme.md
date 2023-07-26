@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-RestDoc-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Sentry-gray"/>&nbsp
  </p>
 
 
