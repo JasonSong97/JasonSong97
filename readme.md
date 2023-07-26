@@ -26,39 +26,14 @@
  
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-</P>
-<p>
-  <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/H2-0052CC?style=for-the-badge&logo=h2" />
-  <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Code%20Deploy-2F93E0?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> 
-  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=181717"/>
-  <img src="https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello&logoColor=0052CC"/>
-</p>
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-JPA-blue"/>
+  <img src="https://img.shields.io/badge/-Python-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-RestDoc-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
  </p>
 
 
@@ -68,21 +43,21 @@
 <br>
 <h2 align="center">🏫 Education 🏫</h2>
 <p align="center">
-FastCampus Boot Camp — &nbsp; <em> Gangnam Megabyteschool BackEnd(Java, SpringBoot) 4th &nbsp;   NOV  2022 - JUNE  2023</em>
  
-INBP of Korea — &nbsp; <em> Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
+[FastCampus](https://fastcampus.co.kr/b2g_MegabyteSchool_backend) — &nbsp; <em> Gangnam Megabyteschool BackEnd(Java, SpringBoot) 4th &nbsp;   NOV  2022 - JUNE  2023</em>
+ 
+[INBP](https://inbp.wsi.ac.kr:446/main/index.jsp) — &nbsp; <em> Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
  
 Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepreneurship &nbsp;   MAR  2020 - JUNE 2022</em>
 
 </p>   
 
 
-<br>
+ <h3 align="center"> 🧩 Activity 🧩</h3>
 
-
-
-<br>
- 
+|Organization|Activity|Date|
+|:---:|:---:|:---:|
+|[스프링부트의 정석](https://velog.io/@jaegeunsong_1997/series/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%9D%98-%EC%A0%95%EC%84%9D)|최주호, 김근호, 공동저자|2023.07 ~ 진행중|
 
 
 <br>
