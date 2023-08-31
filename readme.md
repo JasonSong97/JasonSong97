@@ -51,7 +51,7 @@
 
 |Organization|Activity|Date|
 |:---:|:---:|:---:|
-|[스프링부트의 정석](https://velog.io/@jaegeunsong_1997/series/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%9D%98-%EC%A0%95%EC%84%9D)|최주호, 김근호, 송재근|2023.07 ~ 진행중|
+|[스프링부트의 정석](https://velog.io/@jaegeunsong_1997/series/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%9D%98-%EC%A0%95%EC%84%9D)|최주호, 김근호, 송재근|2023.01 ~ 진행중|
 |[로아상 서울](https://www.instagram.com/roissant_official/)|Pastry Chef|2022.02 ~ 2022.11|
  
 </div>
