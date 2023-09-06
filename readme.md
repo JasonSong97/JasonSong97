@@ -1,20 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
 
 <div align=center>
- <h2 align="center">👨‍💻 About 👨‍💻</h2>
+ <h2 align="center">👨‍💻 상남자 깃허브  👨‍💻</h2>
  <p align="center">
+  
+  <h4 align="center">📋 상남자 블로그 📋</h4> 
   <a href="https://velog.io/@jaegeunsong_1997">
    <img src="https://img.shields.io/badge/Tech blog-white?style=for-the-badge&logo=Velog&logoColor=black" />
   </a>
  </p>
-<br>
 
  <h4 align="center">🎲 Problem Solving 🎲</h4> 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jijus0807)](https://solved.ac/jijus0807) 
- 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jijus0807)](https://solved.ac/jijus0807)
-
 
  
 <h4 align="center">📚 Technology Stack 📚</h4> 
