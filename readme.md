@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
 
 <div align=center>
- <h2 align="center">👨‍💻 상남자 깃허브  👨‍💻</h2>
+ <h2 align="center">👨‍💻 상남자 깃허브 👨‍💻</h2>
  <p align="center">
   
   <h4 align="center">📋 상남자 블로그 📋</h4> 
