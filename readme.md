@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/-Sentry-gray"/>&nbsp
  </p>
 
+<h4 align="center">🖋️ Now Studying 🖋️</h4> 
+ <p align="center">
+  <img src="https://img.shields.io/badge/-MSA-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
+ </p>
+
 
 
 </div>
