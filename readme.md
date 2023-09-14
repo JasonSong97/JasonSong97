@@ -32,6 +32,7 @@
  <p align="center">
   <img src="https://img.shields.io/badge/-MSA-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-Computer Science-whilte"/>&nbsp
  </p>
 
 
