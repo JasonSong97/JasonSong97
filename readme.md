@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
 
 <div align=center>
- <h2 align="center">👨‍💻 상남자 깃허브 👨‍💻</h2>
+ <h2 align="center">👨‍💻 ESTJ 깃허브 👨‍💻</h2>
  <p align="center">
   
-  <h4 align="center">📋 상남자 블로그 📋</h4> 
+  <h4 align="center">📋 ESTJ 블로그 📋</h4> 
   <a href="https://velog.io/@jaegeunsong_1997">
    <img src="https://img.shields.io/badge/Tech blog-white?style=for-the-badge&logo=Velog&logoColor=black" />
   </a>
