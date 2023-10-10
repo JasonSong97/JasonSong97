@@ -9,11 +9,6 @@
    <img src="https://img.shields.io/badge/Tech blog-white?style=for-the-badge&logo=Velog&logoColor=black" />
   </a>
  </p>
-
- <h4 align="center">🎲 Problem Solving 🎲</h4> 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jijus0807)](https://solved.ac/jijus0807) 
-
  
 <h4 align="center">📚 Technology Stack 📚</h4> 
  <p align="center">
