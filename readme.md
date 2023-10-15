@@ -13,14 +13,11 @@
 <h4 align="center">📚 Technology Stack 📚</h4> 
  <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-JPA-blue"/>
   <img src="https://img.shields.io/badge/-Python-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-RestDoc-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Sentry-gray"/>&nbsp
  </p>
 
 <h4 align="center">🖋️ Now Studying 🖋️</h4> 
