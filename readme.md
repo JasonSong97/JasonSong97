@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
  </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/-Javascript-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-Typescript-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-NestJS-grey"/>&nbsp
+  <img src="https://img.shields.io/badge/-TypeORM-white"/>&nbsp 
+ </p>
 
 <h4 align="center">🖋️ Now Studying 🖋️</h4> 
  <p align="center">
