@@ -1,60 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
+### Hi there 👋
 
-<div align=center>
- <h2 align="center">👨‍💻 ESTJ 깃허브 👨‍💻</h2>
- <p align="center">
-  
-  <h4 align="center">📋 ESTJ 블로그 📋</h4> 
-  <a href="https://velog.io/@jaegeunsong_1997">
-   <img src="https://img.shields.io/badge/Tech blog-white?style=for-the-badge&logo=Velog&logoColor=black" />
-  </a>
- </p>
- 
-<h4 align="center">📚 Technology Stack 📚</h4> 
- <p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-blue"/>
-  <img src="https://img.shields.io/badge/-Python-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
- </p>
- <p align="center">
-  <img src="https://img.shields.io/badge/-Javascript-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Typescript-red"/>&nbsp
-  
- </p>
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=JasonSong97&theme=react&hide_border=false)<br/>
 
-<h4 align="center">🖋️ Now Studying 🖋️</h4> 
- <p align="center">
-  <img src="https://img.shields.io/badge/-NestJS-grey"/>&nbsp
-  <img src="https://img.shields.io/badge/-TypeORM-white"/>&nbsp 
- </p>
+## 🔗 Link:
+[Portfolio](https://docs.google.com/presentation/d/1Jblzzqloq2sJ2HLf4VVcOMaW1ptWeWJjqB66eRnLS3o/edit?usp=sharing) [Tech Blog](https://velog.io/@jaegeunsong_1997)
+[]()
 
+## 💻 Tech Stack:
+#### LANGUAGES
+![Java](https://img.shields.io/badge/Java-FFA500?&style=for-the-badge&logo=OpenJDK&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-808080?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+#### Hosting
+![AWS](https://img.shields.io/badge/AWS-D0B336?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-</div>
+#### FRAMEWORKS, LIBRARIES
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-71ce7b?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-88c75e?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring Security](https://img.shields.io/badge/springsecurity-284217?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-<div align="center">
- <br>
-  <h2 align="center">🏫 Education 🏫</h2>
-  <p align="center">
- 
-  [FastCampus](https://fastcampus.co.kr/b2g_MegabyteSchool_backend) — &nbsp; <em> Gangnam Megabyteschool BackEnd(Java, SpringBoot) 4th &nbsp;   NOV  2022 - JUNE  2023</em>
-  
-  [INBP](https://inbp.wsi.ac.kr:446/main/index.jsp) — &nbsp; <em> Institut National de la Boulangerie Pâtisserie &nbsp;   JAN  2021 - DEC  2021</em>
+#### DATABASE
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  Woosong University of Korea —  &nbsp; <em>Sol International Restaurant Entrepreneurship &nbsp;   MAR  2020 - JUNE 2022</em>
+#### TOOLS
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Replit](https://img.shields.io/badge/replit-8b0000?style=for-the-badge&logo=replit&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-  </p>   
+#### INTERESTING
+![MSA](https://img.shields.io/badge/MSA-white?style=for-the-badge&logo=MSA&logoColor=black) ![algorithm](https://img.shields.io/badge/algorithm-red?style=for-the-badge&logo=algorithm&logoColor=white) ![ComputerScience](https://img.shields.io/badge/ComputerScience-purple?style=for-the-badge&logo=computerscience&logoColor=white) ![Fultter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 
-<h3 align="center"> 🧩 Activity 🧩</h3>
-
-|Organization|Activity|Date|
-|:---:|:---:|:---:|
-|[스프링부트의 정석 1차 초안 집필](https://velog.io/@jaegeunsong_1997/series/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%9D%98-%EC%A0%95%EC%84%9D)|최주호, 김근호, 송재근|2023.01 ~ 2023.9|
-|[로아상 서울](https://www.instagram.com/roissant_official/)|Pastry Chef|2022.02 ~ 2022.11|
- 
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)
