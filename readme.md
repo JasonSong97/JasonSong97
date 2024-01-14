@@ -4,7 +4,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JasonSong97&theme=react&hide_border=false)<br/>
 
 ## 🔗 Link:
-[Portfolio](https://docs.google.com/presentation/d/1Jblzzqloq2sJ2HLf4VVcOMaW1ptWeWJjqB66eRnLS3o/edit?usp=sharing) [Tech Blog](https://velog.io/@jaegeunsong_1997) [Gitub Tech Blog](https://jasonsong97.github.io/)
+[Portfolio](https://docs.google.com/presentation/d/1Jblzzqloq2sJ2HLf4VVcOMaW1ptWeWJjqB66eRnLS3o/edit?usp=sharing) [Tech Blog](https://velog.io/@jaegeunsong_1997) [GitHub Tech Blog](https://jasonsong97.github.io/)
 
 ## 💻 Tech Stack:
 #### LANGUAGES
