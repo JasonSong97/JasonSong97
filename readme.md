@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+```java
+@Getter
+public class JasonSong97{
+
+    private String mbti;
+    private String workout;
+    private String job;
+
+    public SoftwareEnginner() {
+        this.mbti = "ESTJ";
+        this.workout = "CROSSFIT";
+        this.job = "SOFTWARE ENGINEER";
+    }
+
+    public void todayWOD(String AMRAP, int 20) {
+        stretching(10);
+        row(500);
+        toesToBar(20);
+        ringMuscleUp(20)
+        snatch(15);
+    }
+```
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JasonSong97&theme=react&hide_border=false)<br/>
 
