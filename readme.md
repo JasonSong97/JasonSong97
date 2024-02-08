@@ -18,6 +18,7 @@ public class JasonSong97{
         toesToBar(20);
         ringMuscleUp(20)
         snatch(15);
+        assaultBike(14);
     }
 }
 ```
