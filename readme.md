@@ -7,6 +7,7 @@ public class JasonSong97{
 
     private String mbti;
     private String workout;
+
     private String job;
 
     public SoftwareEnginner() {
@@ -25,6 +26,8 @@ public class JasonSong97{
     }
 }
 ```
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSong97&show_icons=true&theme=radical)
 
 ## 💻 Tech Stack
 
