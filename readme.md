@@ -15,7 +15,7 @@ public class JasonSong97{
         this.job = "SOFTWARE ENGINEER";
     }
 
-    public void crossFitOpen2024(String AMRAP, int 20) {
+    public void crossFitOpen2024(String AMRAP, int 20) {
         row(300);
         deadlift(185, 10);
         doubleUnder(50);
