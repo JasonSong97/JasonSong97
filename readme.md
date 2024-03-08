@@ -7,7 +7,6 @@ public class JasonSong97{
 
     private String mbti;
     private String workout;
-
     private String job;
 
     public SoftwareEnginner() {
@@ -16,18 +15,15 @@ public class JasonSong97{
         this.job = "SOFTWARE ENGINEER";
     }
 
-    public void todayWOD(String AMRAP, int 20) {
-        stretching(10);
-        row(500);
-        toesToBar(20);
-        ringMuscleUp(20)
-        snatch(15);
-        assaultBike(14);
+    public void crossFitOpen2024(String AMRAP, int 20) {
+        row(300);
+        deadlift(185, 10);
+        doubleUnder(50);
     }
 }
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSong97&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
 
 ## 💻 Tech Stack
 
