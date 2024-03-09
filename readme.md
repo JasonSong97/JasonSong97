@@ -1,5 +1,7 @@
-## 🔗Link
-[Portfolio](https://docs.google.com/presentation/d/1Z3TUJq9HKI_Obfw0K_hqtL_t6tymwc1Jqcg6Nk6RzgE/edit?usp=sharing) [Tech Blog](https://velog.io/@jaegeunsong_1997)
+## 🔗LINK
+[PORTFOLIO](https://docs.google.com/presentation/d/1Z3TUJq9HKI_Obfw0K_hqtL_t6tymwc1Jqcg6Nk6RzgE/edit?usp=sharing) [TECH BLOG](https://velog.io/@jaegeunsong_1997)
+
+![THIS IS WHO I AM!](https://www.youtube.com/watch?v=IPXIgEAGe4U)
 
 ```java
 @Getter
@@ -23,14 +25,14 @@ public class JasonSong97{
 }
 ```
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
+![LEETCODE](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
 
-## 💻 Tech Stack
+## 💻 TECH STACK
 
 #### 📍LANGUAGES
 ![Java](https://img.shields.io/badge/Java-FFA500?&style=for-the-badge&logo=OpenJDK&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-808080?style=for-the-badge&logo=python&logoColor=white)
 
-#### 📍Hosting
+#### 📍HOSTING
 ![AWS](https://img.shields.io/badge/AWS-D0B336?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 #### 📍FRAMEWORKS, LIBRARIES
