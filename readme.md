@@ -1,7 +1,7 @@
 ## 🔗LINK
 [PORTFOLIO](https://docs.google.com/presentation/d/1Z3TUJq9HKI_Obfw0K_hqtL_t6tymwc1Jqcg6Nk6RzgE/edit?usp=sharing) [TECH BLOG](https://velog.io/@jaegeunsong_1997)
 
-![THIS IS WHO I AM!](https://www.youtube.com/watch?v=IPXIgEAGe4U)
+[THIS IS WHO I AM!](https://www.youtube.com/watch?v=IPXIgEAGe4U)
 
 ```java
 @Getter
