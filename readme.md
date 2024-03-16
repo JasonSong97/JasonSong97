@@ -17,10 +17,12 @@ public class JasonSong97{
         this.job = "SOFTWARE ENGINEER";
     }
 
-    public void crossFitOpen2024(String AMRAP, int 20) {
-        row(300);
-        deadlift(185, 10);
-        doubleUnder(50);
+    public void crossFitOpen2024(int 15, String minute) {
+        thruster(Rxd, 10);
+        chestToBar(10);
+        rest(1);
+        thruster(Rxd, 7);
+        barMuscleUp(7);
     }
 }
 ```
