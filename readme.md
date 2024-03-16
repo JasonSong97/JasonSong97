@@ -1,7 +1,8 @@
 ## 🔗LINK
-[PORTFOLIO](https://docs.google.com/presentation/d/1Z3TUJq9HKI_Obfw0K_hqtL_t6tymwc1Jqcg6Nk6RzgE/edit?usp=sharing) [TECH BLOG](https://velog.io/@jaegeunsong_1997)
 
-[BOOSTER ON!](https://www.youtube.com/watch?v=0V3LwNtZxM4)
+[TECH BLOG](https://velog.io/@jaegeunsong_1997) [BOOSTER ON!!](https://www.youtube.com/watch?v=0V3LwNtZxM4)
+
+![LEETCODE](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
 
 ```java
 @Getter
@@ -27,7 +28,7 @@ public class JasonSong97{
 }
 ```
 
-![LEETCODE](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
+
 
 ## 💻 TECH STACK
 
@@ -47,5 +48,5 @@ public class JasonSong97{
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Replit](https://img.shields.io/badge/replit-8b0000?style=for-the-badge&logo=replit&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 #### 📍INTERESTING
-![ComputerScience](https://img.shields.io/badge/ComputerScience-purple?style=for-the-badge&logo=computerscience&logoColor=white) ![Fultter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Computer Science](https://img.shields.io/badge/ComputerScience-purple?style=for-the-badge&logo=computerscience&logoColor=white)
 
