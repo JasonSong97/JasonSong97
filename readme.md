@@ -6,18 +6,19 @@
 
 ```java
 @Getter
-public class JasonSong97{
+public class JasonSong97 implements Crossfit{
 
     private String mbti;
-    private String workout;
+    private String hobby;
     private String job;
 
     public SoftwareEnginner() {
         this.mbti = "ESTJ";
-        this.workout = "CROSSFIT";
+        this.workout = "PIANO";
         this.job = "SOFTWARE ENGINEER";
     }
 
+    @Override
     public void crossFitOpen2024(int 15, String minute) {
         thruster(Rxd, 10);
         chestToBar(10);
