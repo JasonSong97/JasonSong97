@@ -1,6 +1,6 @@
 ## 🔗LINK
 
-[TECH BLOG](https://velog.io/@jaegeunsong_1997) [BOOSTER ON!!](https://www.youtube.com/watch?v=0V3LwNtZxM4) [NANO DEGREE](https://www.udacity.com/catalog?searchValue=nano+degree)
+[TECH BLOG](https://velog.io/@jaegeunsong_1997) [BOOSTER ON!!](https://www.youtube.com/watch?v=0V3LwNtZxM4) [NANO DEGREE](https://www.udacity.com/catalog/all/any-price/any-school/any-skill/any-difficulty/any-duration/nanodegree%20program/most-popular/page-1)
 
 ![LEETCODE](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
 
