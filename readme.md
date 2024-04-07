@@ -37,7 +37,7 @@ public class JasonSong97 implements Crossfit{
 ![Java](https://img.shields.io/badge/Java-FFA500?&style=for-the-badge&logo=OpenJDK&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-808080?style=for-the-badge&logo=python&logoColor=white)
 
 #### 📍HOSTING
-![AWS](https://img.shields.io/badge/AWS-D0B336?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![AWS](https://img.shields.io/badge/AWS-D0B336?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 📍FRAMEWORKS, LIBRARIES
 ![Spring](https://img.shields.io/badge/spring-88c75e?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Spring Security](https://img.shields.io/badge/springsecurity-284217?style=for-the-badge&logo=springsecurity&logoColor=white) ![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-71ce7b?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
