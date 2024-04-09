@@ -49,5 +49,5 @@ public class JasonSong97 implements Crossfit{
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Replit](https://img.shields.io/badge/replit-8b0000?style=for-the-badge&logo=replit&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 #### 📍INTERESTING
-![Computer Science](https://img.shields.io/badge/ComputerScience-purple?style=for-the-badge&logo=computerscience&logoColor=white)
+![Computer Science](https://img.shields.io/badge/ComputerScience-purple?style=for-the-badge&logo=computerscience&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-white?style=for-the-badge&logo=OOP&logoColor=white)
 
