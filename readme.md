@@ -1,10 +1,8 @@
 ## 🔗LINK
 
-[TECH BLOG](https://velog.io/@jaegeunsong_1997) [BOOSTER ON!!](https://www.youtube.com/watch?v=0V3LwNtZxM4) 
+[MEDIUM](https://medium.com/@jaegeunsong97) [BOOSTER ON!!](https://www.youtube.com/watch?v=0V3LwNtZxM4) 
 
 ![LEETCODE](https://leetcard.jacoblin.cool/JasonSong97?theme=wtf&font=Alata&ext=activity)
-
-## 🏆Activity
 
 ## 💻 TECH STACK
 
