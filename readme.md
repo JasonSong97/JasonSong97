@@ -22,7 +22,6 @@
 ## TECH STACK
 |Skill|
 |:---:|
-|Java SpringBoot Jpa|
-|TypeScript Nest.js|
+|Java SpringBoot Jpa / TypeScript Nest.js / Python|
 |Aws GitHub MySQL|
 |VSCode IntelliJ Notion Zira Slack|
