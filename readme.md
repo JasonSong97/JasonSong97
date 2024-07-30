@@ -1,6 +1,7 @@
 ## LINK
 - [Tech Blog](https://medium.com/@jaegeunsong97)
-- [Crossfit Music](https://www.youtube.com/watch?v=0V3LwNtZxM4)
+- [Crossfit Rank](https://games.crossfit.com/leaderboard/open/2024?view=0&division=1&region=0&scaled=0&sort=0&athlete=2716636&athlete_display=jaegeun+song)
+- [Boost Up](https://www.youtube.com/watch?v=0V3LwNtZxM4)
 
 ## CERTIFICATION
 |Date|Certificate|Organization|
