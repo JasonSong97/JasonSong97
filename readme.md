@@ -8,7 +8,7 @@
 |2024|Structured Query Language Developer (SQLD)|한국데이터산업진흥원|
 |2024|Engineer Information Processing (정보처리기사)|한국산업인력공단|
 |2024|Toeic Speaking AL (170)|ETS|
-|2021|Institut National De La Boulangerie Ptisserie|프랑스국립제과제빵협회|
+|2021|INBP Diploma|프랑스국립제과제빵협회|
 |2021|제과기능사|한국산업인력공단|
 
 ## ACTIVITY
@@ -19,7 +19,7 @@
 |2023|패스트캠퍼스|백엔드 부트캠프|
 |2022|빈브라더스 로아상서울|파티시에|
 |2022|우송대학교|글로벌 외식 창업학과 졸업|
-|2021|INBP|프랑스 제과 수료|
+|2021|Institut National De La Boulangerie Patisserie|프랑스 제과 수료|
 
 ## TECH STACK
 |Skill|
