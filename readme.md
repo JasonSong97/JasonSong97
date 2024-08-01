@@ -21,6 +21,7 @@
 |2022|빈브라더스 로아상서울|파티시에|
 |2022|우송대학교|글로벌 외식 창업학과 졸업|
 |2021|Institut National De La Boulangerie Patisserie|프랑스 제과 수료|
+|2019|애들레이드 인터컨티넨탈|파티시에|
 
 ## TECH STACK
 |Skill|
