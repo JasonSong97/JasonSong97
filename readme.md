@@ -18,8 +18,8 @@
 |:---:|:---:|:---:|
 |2024|크리에이티브 옐로우|소프트웨어 엔지니어|
 |2023|패스트캠퍼스|백엔드 부트캠프|
-|2022|빈브라더스 로아상서울|파티시에|
-|2022|우송대학교|글로벌 외식 창업학과 졸업|
+|2022|빈브라더스 로아상서울|페스츄리 쉐프|
+|2022|우송대학교|글로벌 외식 창업학과|
 |2021|Institut National De La Boulangerie Patisserie|프랑스 제과 수료|
 |2019|애들레이드 인터컨티넨탈|파티시에|
 
@@ -27,5 +27,6 @@
 |Skill|
 |:---:|
 |Java SpringBoot Jpa / TypeScript Nest.js / Python|
-|Aws GitHub MySQL|
-|VSCode IntelliJ Notion Zira Slack|
+|Aws Git MySQL|
+|VSCode IntelliJ|
+|Notion Zira Slack Figma|
