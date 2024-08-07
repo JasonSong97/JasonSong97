@@ -6,6 +6,7 @@
 ## CERTIFICATION
 |Date|Certificate|Organization|
 |:---:|:---:|:---:|
+|2024|AWS Certified Cloud Practitioner|AWS|
 |2024|Structured Query Language Developer (SQLD)|한국데이터산업진흥원|
 |2024|Engineer Information Processing (정보처리기사)|한국산업인력공단|
 |2024|Toeic Speaking AL (170)|ETS|
