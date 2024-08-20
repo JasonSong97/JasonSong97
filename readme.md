@@ -27,7 +27,7 @@
 ## TECH STACK
 |Skill|
 |:---:|
-|Java SpringBoot Jpa / TypeScript Nest.js / Python|
-|Aws Git MySQL|
-|VSCode IntelliJ|
-|Notion Zira Slack Figma|
+|`Java SpringBoot Jpa` / `TypeScript Nest.js` / `Python`|
+|`Aws` `Git` `MySQL`|
+|`VSCode` `IntelliJ`|
+|`Notion` `Zira` `Slack` `Figma`|
