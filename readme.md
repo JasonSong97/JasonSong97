@@ -1,5 +1,3 @@
-[![코드트리|실력진단-jijus0807](https://banner.codetree.ai/v1/banner/jijus0807)](https://www.codetree.ai/profiles/jijus0807)
-
 ## ACTIVITY
 
 |Date|Organization|Activity|
