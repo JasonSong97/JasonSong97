@@ -25,4 +25,3 @@
 |`Java SpringBoot Jpa` / `TypeScript Nest.js` / `Python`|
 |`Aws` `Git` `MySQL` |
 |`OCR` `LLM` `RAG` `DevOps`|
-|`Notion` `Zira` `Slack` `Figma` `VSCode` `IntelliJ`|
