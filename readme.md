@@ -1,11 +1,16 @@
-[Silica Gel](https://www.youtube.com/watch?v=23sM_7PtNvY)
-
 ## EXPERIENCE
 
 |Date|Organization|Activity|
 |:---:|:---:|:---:|
 |2023 - PRESENT|`크리에이티브 옐로우`|BE SW/AI 엔지니어|
 |2022|`빈브라더스 로아상서울`|페스츄리 쉐프|
+
+## TECH STACK
+|Skill|
+|:---:|
+|`Java SpringBoot` / `Python` `PHP`|
+|`Redis` `Kafka` `MySQL`|
+|`Aws` `Git/GitHub`|
 
 ## CERTIFICATION
 |Date|Certificate|Organization|
@@ -17,10 +22,3 @@
 |2021.12|`INBP`|프랑스국립제과제빵협회|
 |2021.02|`제과기능사`|한국산업인력공단|
 |2019.02|`Adelaide TafeSA`|TAFE SA|
-
-## TECH STACK
-|Skill|
-|:---:|
-|`Java SpringBoot` / `Python` `PHP`|
-|`Redis` `Kafka` `MySQL`|
-|`Aws` `Git/GitHub`|
