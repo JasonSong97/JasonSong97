@@ -4,7 +4,7 @@
 
 |Date|Organization|Activity|
 |:---:|:---:|:---:|
-|2024|`크리에이티브 옐로우`|SW/AI 엔지니어|
+|2023 - PRESENT|`크리에이티브 옐로우`|BE SW/AI 엔지니어|
 |2022|`빈브라더스 로아상서울`|페스츄리 쉐프|
 
 ## CERTIFICATION
@@ -21,6 +21,6 @@
 ## TECH STACK
 |Skill|
 |:---:|
-|`Java SpringBoot Jpa` / `TypeScript Nest.js` / `Python`|
-|`Aws` `Git` `MySQL` |
-|`OCR` `LLM` `RAG` `DevOps`|
+|`Java SpringBoot` / `Python` `PHP`|
+|`Redis` `Kafka` `MySQL`|
+|`Aws` `Git/GitHub`|
