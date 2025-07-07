@@ -8,14 +8,15 @@
 ## TECH STACK
 |SKILL|NAME|
 |:---:|:---:|
-|Tech|`Java SpringBoot JPA` / `Python` `PHP` / `Kafka` `Docker`|
-|DB Infra|`MySQL` `NoSQL` `Redis` `Aws`|
+|Tech|`Java SpringBoot` / `Python FastAPI` `PHP` / `Kafka` `Docker`|
+|DB Infra|`MySQL` `PostgreSQL` `NoSQL` `Redis` `Aws`|
 |AI|`GPT` `Claude` `Naver AI` `Prompt`|
 |Tool|`Git` `Slack` `Jira` `IntelliJ IDEA` `VSCode`|
 
 ## CERTIFICATION
 |Date|Certificate|Organization|
 |:---:|:---:|:---:|
+|2025.07|`AICE Associate`|KT|
 |2024.12|`SQLD`|한국데이터산업진흥원|
 |2024.09|`정보처리기사`|한국산업인력공단|
 |2024.05|`토익스피킹 170`|한국TOEIC위원회|
