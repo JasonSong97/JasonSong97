@@ -24,6 +24,6 @@
 ## STUDY LOG
 |NAME|URL|
 |:---:|:---:|
+|FastAPI + 클린아키텍처|[FastAPI로 배우는 클린아키텍처, 한용재](https://github.com/JasonSong97/fastapi-clean-architecture.git)|
 |테스트 주도 개발|[테스트 주도 개발 시작하기, 최범균](https://github.com/JasonSong97/test-driven-development)|
-|FastAPI + 클린아키텍처|[FastAPI로 배우는 클린아키텍처, 한용재](https://github.com/JasonSong97/test-driven-development)|
 |대규모 시스템 설계|[Board 기반 대규모 시스템 설계](https://github.com/JasonSong97/system-design-architecture-board)|
