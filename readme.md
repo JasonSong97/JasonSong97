@@ -2,7 +2,7 @@
 
 |Date|Organization|Activity|
 |:---:|:---:|:---:|
-|2023.12 - PRESENT|`Creative Yellow`|Data·Software Engineer|
+|2023.12 - PRESENT|`Creative Yellow`|AI Software Engineer|
 |2022.02 - 2022.11|`Bean Brothers`|Food Production·Demand Planning Manager|
 
 ## TECH STACK
