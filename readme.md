@@ -16,10 +16,7 @@
 ## CERTIFICATION
 |Date|Certificate|Organization|
 |:---:|:---:|:---:|
-|2026.03|`ADSP`|한국데이터산업진흥원|
-|2026.01|`OPIC IH`|ACTFL|
-|2026.01|`Aws AI Practitioner`|AWS|
-|2026.01|`Aws Cloud Practitioner`|AWS|
+|2026.01|`Aws Certified Cloud Practitioner`|AWS|
 |2025.08|`AICE Associate`|KT|
 |2024.12|`SQLD`|한국데이터산업진흥원|
 |2024.09|`정보처리기사`|한국산업인력공단|
