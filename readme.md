@@ -16,6 +16,7 @@
 ## CERTIFICATION
 |Date|Certificate|Organization|
 |:---:|:---:|:---:|
+|2026.01|`Aws Certified AI Practitioner`|AWS|
 |2026.01|`Aws Certified Cloud Practitioner`|AWS|
 |2025.08|`AICE Associate`|KT|
 |2024.12|`SQLD`|한국데이터산업진흥원|
