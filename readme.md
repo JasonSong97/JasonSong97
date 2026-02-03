@@ -15,7 +15,7 @@
 |:---:|:---:|
 |Tech| `FastAPI` / `SpringBoot` / `Nest.js` / `PHP` / `Kafka` `Docker`|
 |DB Infra|`RDB` `NoSQL` `Redis` `Aws` `Supabase`|
-|AI|`RAG` `LangGraph` `LangChain` `Multi Modal LLM`|
+|AI|`RAG` `Vector DB` `LangGraph` `LangChain` `Multi Modal LLM` `Search`|
 |Tool|`Git` `Slack` `Jira` `IntelliJ IDEA` `VSCode`|
 
 ## CERTIFICATION
