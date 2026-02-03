@@ -4,11 +4,11 @@
 |2023.12 - PRESENT|`Creative Yellow`|AI Software Engineer|
 |2022.02 - 2022.11|`Bean Brothers`|Food Production·Demand Planning Manager|
 
-## EDUCATION
-|Organization|Activity|
-|:---:|:---:|
-|`모두의연구소`|AI/LLM Engineer|
-|`패스트캠퍼스`|Java and Python Backend Developer|
+## TECHNICAL TRAINING
+|Date|Organization|Activity|
+|:---:|:---:|:---:|
+|2026.02 - 2026.05|`모두의연구소`|AI/LLM Engineer Tech Training|
+|2022.12 - 2023.07|`패스트캠퍼스`|Backend Engineer Tech Training|
 
 ## TECH STACK
 |SKILL|NAME|
