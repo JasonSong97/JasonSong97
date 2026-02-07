@@ -13,8 +13,8 @@
 ## TECH STACK
 |SKILL|NAME|
 |:---:|:---:|
-|Tech| `FastAPI` / `SpringBoot` / `Nest.js` / `PHP` / `Kafka` `Docker`|
-|DB Infra|`RDB` `NoSQL` `Redis` `Aws` `Supabase`|
+|Tech| `FastAPI` / `SpringBoot` / `Nest.js` / `PHP`|
+|DB Infra|`RDB` `Aws` `Supabase`|
 |AI|`RAG` `Vector DB` `LangGraph` `LangChain` `Multi Modal LLM` `Search`|
 |Tool|`Git` `Slack` `Jira` `IntelliJ IDEA` `VSCode`|
 
