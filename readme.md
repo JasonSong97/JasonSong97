@@ -28,7 +28,7 @@
 ## EDUCATION
 |Date|School|Major|
 |:---:|:---:|:---:|
-|2025.02 – 2027.02|`The Cyber University of Korea`|AI Data Engineering (B.S., in progress)|
-|2020.02 – 2022.08|`Woosong University`|Restaurant Business Administration (B.S.)|
-|2021.03 – 2021.11|`INBP, L’Institut National de la Boulangerie Pâtisserie`|Boulangerie & Pâtisserie (Diploma)|
-|2021.09 – 2021.10|`TAFE SA`|English (ESL) & Pastry Training (Short Course)|
+|2025.02 – PRESENT|`The Cyber University of Korea`|AI Data Engineering B.S|
+|2020.02 – 2022.08|`Woosong University`|Restaurant Business Administration B.S|
+|2021.03 – 2021.11|`Institut National de la Boulangerie Pâtisserie`|Boulangerie & Pâtisserie Diploma|
+|2021.09 – 2021.10|`TAFE SA`|English & Pastry Training Short Course|
